@@ -30,11 +30,11 @@ Copy code
 git clone https://github.com/csshankar/todo-app.git
 cd todo-app
 
-```markdown
 
 ## Getting Started
 
 ### Navigate to the backend directory:
+
 
 ```bash
 cd backend
