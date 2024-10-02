@@ -96,8 +96,9 @@ npm start
 
 ### Example Request for Adding a Todo
 
-```json
+
 POST /todo
+```json
 {
    "title": "title",
    "description": "description"
@@ -115,4 +116,3 @@ Feel free to submit issues and pull requests to improve the app!
 ## Acknowledgments
 
 Thanks to the open source community for the inspiration and libraries used in this project.
-```
